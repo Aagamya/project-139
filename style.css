@@ -1,0 +1,35 @@
+.object{
+    width:100%;
+    text-align:left;
+}
+
+
+.object h3{
+display: inline;
+}
+.object button{
+float:right;
+border: 5px solid white;
+}
+
+.big_image{
+    width:100%;
+}
+#start{
+    font-size: 22px;
+}
+#status{
+    font-size: 22px;
+}
+h4{
+background-color: white;
+line-height: 2;
+margin: 0px;
+}
+.modal-dialog{
+    width: 90%;
+}
+.instruction_image{
+    display: inline-block;
+    width: 45%;
+}
